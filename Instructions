@@ -8,16 +8,4 @@ STEPS:
    6. Save the chenges.
    7.After saving you will find the link for your website.By clicking the link you will be redirected to your website
    8. Now we are done with our first step. lets move on to important step of creating Lambda function, to make our website more interesting.
-  
-  Lambda
-  Run Code without Thinking about Servers
-  Steps.
-  1.In a new browser tab, log in to the AWS Lambda console.
-  2.Make sure you create your function in the same Region in which you created the web app in the previous module.
-  3.Choose the orange Create function button.
-  5.Under Function name, enter join_namesfunction.
-  6.Select Python 3.8 from the runtime dropdown and leave the rest of the defaults unchanged.
-  6.Upload the code(refer join_names file) into the code source.
-  7.
-
    

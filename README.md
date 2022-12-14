@@ -4,5 +4,7 @@ S3 bucket will be created to store files related to our website and bucket will 
 A lambda function which will be triggered by API Gateway whenever events happen in index.html. As a result a output can be seen in index.html and also the outputs will be stored in Dynamodb table created by us. 
 Proper persmissions will be given to lambda to make sure that lambda will be able to write in dynamodb table.
 
+You can refer Instructions file for detailed steps and explaination.
+
 
 
